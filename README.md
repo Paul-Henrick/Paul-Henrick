@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Paul-Henrick
 - 👀 I’m interested in ... Automation, Manual testing, FE development
 - 🌱 I’m currently learning ... React, Playwright
-- 
+
 [![My Playwright Tests](https://github.com/Paul-Henrick/nextjs-boilerplate/actions/workflows/playwright.yml/badge.svg)](https://github.com/Paul-Henrick/nextjs-boilerplate/actions/workflows/playwright.yml)
 
+![Cool Animation](https://gifdb.com/images/high/pixel-legend-of-zelda-yzii78syb2l6elb3.webp)
 
 
 <!---
